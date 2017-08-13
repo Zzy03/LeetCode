@@ -10,18 +10,18 @@ Otherwise, the NOT null node will be used as the node of new tree.
 Example 1:  
 Input:   
 　　　　Tree1　　　　　　　　　　Tree 2                  
-          1                         2                             
-         / \                       / \                            
-        3   2                     1   3                        
-       /                           \   \                      
-      5                             4   7                  
+　　　　　1　　　　　　　　　　　　　2                             
+　　　　/　\　　　　　　　　　　　　/　\                            
+　　　　3　2　　　　　　　　　　　　1　3                        
+　　　　/　　　　　　　　　　　　　　\　\                      
+　　　5　　　　　　　　　　　　　　　4　7                  
 Output:   
 Merged tree:  
-	     3
-	    / \
-	   4   5
-	  / \   \ 
-	 5   4   7  
+　　　　　3
+　　　　/　\
+　　　　4　5
+　　　/　\　\ 
+　　5　　4　　7  
 Note: The merging process must start from the root nodes of both trees.  
 
 合并两颗树。
