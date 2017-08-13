@@ -1,4 +1,4 @@
-001.Two Sum
+001.Hamming Distance 
 ====  
 problem
 -------  
