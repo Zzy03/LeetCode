@@ -9,7 +9,7 @@ Otherwise, the NOT null node will be used as the node of new tree.
 
 Example 1:  
 Input:   
-        Tree1                     Tree 2                  
+　　　　Tree1　　　　　　　　　　Tree 2                  
           1                         2                             
          / \                       / \                            
         3   2                     1   3                        
