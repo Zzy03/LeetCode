@@ -17,10 +17,10 @@ Input:
 　　　5　　　　　　　　　　　　　　　4　7                  
 Output:   
 Merged tree:  
-　　　　　3
-　　　　/　\
-　　　　4　5
-　　　/　\　\ 
+　　　　　3  
+　　　　/　\  
+　　　　4　5  
+　　　/　\　\   
 　　5　　4　　7  
 Note: The merging process must start from the root nodes of both trees.  
 
