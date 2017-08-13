@@ -15,13 +15,13 @@ Input:
         3   2                     1   3                        
        /                           \   \                      
       5                             4   7                  
-Output: 
-Merged tree:
+Output:   
+Merged tree:  
 	     3
 	    / \
 	   4   5
 	  / \   \ 
-	 5   4   7
+	 5   4   7  
 Note: The merging process must start from the root nodes of both trees.  
 
 合并两颗树。
